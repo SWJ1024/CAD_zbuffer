@@ -1,0 +1,10 @@
+﻿main.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl zbuffer::sacnline(void)" (?sacnline@zbuffer@@QEAAXXZ)，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glutInit，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glutInitDisplayMode，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glutInitWindowPosition，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glutInitWindowSize，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glutMainLoop，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glutCreateWindow，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glutDisplayFunc，该符号在函数 main 中被引用
+C:\Users\GIVE-ME\Desktop\z-buffer\lib\glut32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Users\GIVE-ME\Desktop\z-buffer\x64\Debug\z-buffer.exe : fatal error LNK1120: 8 个无法解析的外部命令

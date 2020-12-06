@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\GIVE-ME\Desktop\秋季作业\z-buffer\zbuffer.h(10,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\GIVE-ME\Desktop\秋季作业\z-buffer\zbuffer.h(10,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\GIVE-ME\Desktop\秋季作业\z-buffer\zbuffer.h(11,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\GIVE-ME\Desktop\秋季作业\z-buffer\zbuffer.h(11,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\GIVE-ME\Desktop\秋季作业\z-buffer\zbuffer.h(12,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\GIVE-ME\Desktop\秋季作业\z-buffer\zbuffer.h(12,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Note: including lib: glut32.lib
+  zbuffer.cpp
+C:\Users\GIVE-ME\Desktop\秋季作业\z-buffer\zbuffer.h(10,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\GIVE-ME\Desktop\秋季作业\z-buffer\zbuffer.h(10,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\GIVE-ME\Desktop\秋季作业\z-buffer\zbuffer.h(11,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\GIVE-ME\Desktop\秋季作业\z-buffer\zbuffer.h(11,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\GIVE-ME\Desktop\秋季作业\z-buffer\zbuffer.h(12,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\GIVE-ME\Desktop\秋季作业\z-buffer\zbuffer.h(12,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\GIVE-ME\Desktop\秋季作业\z-buffer\zbuffer.cpp(97,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GIVE-ME\Desktop\秋季作业\z-buffer\zbuffer.cpp(182,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\GIVE-ME\Desktop\秋季作业\z-buffer\zbuffer.cpp(310,20): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+  Generating Code...
+  z-buffer.vcxproj -> C:\Users\GIVE-ME\Desktop\秋季作业\z-buffer\Debug\z-buffer.exe

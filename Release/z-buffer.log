@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\GIVE-ME\Desktop\z-buffer\zbuffer.h(8,30): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\GIVE-ME\Desktop\z-buffer\zbuffer.h(8,49): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\GIVE-ME\Desktop\z-buffer\zbuffer.h(9,31): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+  zbuffer.cpp
+C:\Users\GIVE-ME\Desktop\z-buffer\zbuffer.h(9,51): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\GIVE-ME\Desktop\z-buffer\zbuffer.h(9,51): warning C4244: Note: including lib: glut32.lib
+C:\Users\GIVE-ME\Desktop\z-buffer\zbuffer.h(8,30): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\GIVE-ME\Desktop\z-buffer\zbuffer.h(8,49): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\GIVE-ME\Desktop\z-buffer\zbuffer.h(9,31): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\GIVE-ME\Desktop\z-buffer\zbuffer.h(9,51): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\GIVE-ME\Desktop\z-buffer\zbuffer.cpp(97,22): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\GIVE-ME\Desktop\z-buffer\zbuffer.cpp(305,20): warning C4244:  “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+LINK : fatal error LNK1181: 无法打开输入文件“glut32.lib”
